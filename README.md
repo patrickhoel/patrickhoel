@@ -3,13 +3,12 @@
 Ich bin ein Entwickler aus Wuppertal, der keine Lust auf langsame Website-Baukästen hat. In meinem **Digital Lab** baue ich kleine Tools, Web-Apps und Experimente – immer mit Fokus auf Performance, sauberen Code und echtes Handwerk.
 
 ### Mein Tech-Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3b82f6)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=for-the-badge&logo=flask&logoColor=3b82f6)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=3b82f6)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=3b82f6)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&logoColor=3b82f6)
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=3b82f6)
 ---
 
 ### Aktuelle Projekte
