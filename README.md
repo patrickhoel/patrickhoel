@@ -13,7 +13,7 @@ Ich bin ein Entwickler aus Wuppertal, der keine Lust auf langsame Website-Baukä
 
 ### Aktuelle Projekte
 
-#### [Pfotenbalance](https://pfotenbalance.com) 
+#### [Pfotenbalance](https://pfotenbalance.hoelter-digital.de) 
 Ein komplettes Relaunch-Projekt für das Business meiner Schwester. 
 - **Der Clou:** Wir haben den alten Wix-Baukasten durch ein handgeschriebenes Flask-Backend ersetzt.
 - **Performance:** Glatte **100/100 Punkte** im Google Lighthouse Audit (Desktop). 
