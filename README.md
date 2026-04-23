@@ -27,7 +27,7 @@ Echtzeit-Analyse der Spritpreise in Wuppertal.
 ---
 
 ### Kontakt
-Du hast ein Projekt im Kopf oder willst einfach nur über Code quatschen? 
+Take it or leave it.
 - **Website:** [hoelter-digital.de](https://hoelter-digital.de)
 - **E-Mail:** [patrick@hoelter-digital.de](mailto:patrick@hoelter-digital.de)
 
