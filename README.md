@@ -1,6 +1,6 @@
 # Hi, ich bin Patrick | Hölter Digital
 
-Ich bin ein Entwickler aus Wuppertal, der keine Lust auf langsame Website-Baukästen hat. In meinem **Digital Lab** baue ich kleine Tools, Web-Apps und Experimente – immer mit Fokus auf Performance, sauberen Code und echtes Handwerk.
+Ich bin ein Hobby-Entwickler aus Wuppertal, der keine Lust auf langsame Website-Baukästen hat. In meinem **Digital Lab** baue ich kleine Tools, Web-Apps und Experimente – immer mit Fokus auf Performance, sauberen Code und echtes Handwerk.
 
 ### Mein Tech-Stack
 ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3b82f6)
